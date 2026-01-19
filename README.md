@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="80%" alt="Hello, I'm Musila Peter. I build software!" src="./assets/gh-readme-header.png" />
-</p>
+<h1 align="center">Hi 👋, I'm Musila Peter</h1>
+<h3 align="center">Software Engineer | Lifelong Learner</h3>
+
 
 <br />
 
