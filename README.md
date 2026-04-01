@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Musila Peter</h1>
+<h1 align="center">Hi 👋, I'm Peter K. Musila</h1>
 <h3 align="center">Software Engineer | Lifelong Learner</h3>
 
 
