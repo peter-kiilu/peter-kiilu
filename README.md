@@ -23,8 +23,7 @@ A polished MERN-style lost-and-found web application built with React, Vite, Tai
 
 ## 📊 GitHub Stats
 
-![Musila Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=musilapeter&show_icons=true&theme=default&_t=$(date +%s))
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musilapeter&show_icons=true&theme=default)
 ## 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/musilapeter](https://linkedin.com/in/musilapeter)
