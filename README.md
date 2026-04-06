@@ -29,4 +29,4 @@ A polished MERN-style lost-and-found web application built with React, Vite, Tai
 
 - LinkedIn: [linkedin.com/in/musila-peter](https://linkedin.com/in/musilapeter)
 - Website: [musila.dev](https://musila.dev)
-- Email: [musiladev@gmail.com]
+- Email: musiladev@gmail.com
