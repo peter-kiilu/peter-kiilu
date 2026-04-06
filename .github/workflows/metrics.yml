@@ -1,0 +1,44 @@
+name: Metrics update
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Output options
+          filename: github-metrics.svg
+          output_action: write
+          
+          # Template & layout
+          base: header, activity, community, repositories
+          base_indepth: yes
+          template: classic
+          
+          # Main stats card
+          plugin_stats: yes
+          plugin_stats_limit: 2
+          plugin_stats_freeze: no
+          
+          # Top languages
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_limit: 0
+          
+          # Repository traffic (requires repo stats permission)
+          plugin_traffic: no
