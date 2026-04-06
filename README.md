@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Musila Peter
 
 **Software Engineer** specializing in Python and MERN Stack
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/musilapeter)
 [![Website](https://img.shields.io/badge/Website-musila.dev-green)](https://musila.dev)
 
