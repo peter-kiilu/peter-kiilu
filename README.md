@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Musila Peter
 
-**Software Engineer** specializing in [Your Tech Stack]
-
+**Software Engineer** specializing in Python and MERN Stack
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/musilapeter)
 [![Website](https://img.shields.io/badge/Website-musila.dev-green)](https://musila.dev)
 
 ## 🚀 About Me
 
-I'm Musila Peter, a [role] with [X] years of experience in [industry]. I specialize in:
+I'm Musila Peter, a junior software engineer with 3 years of experience in programming and writing web applications. I specialize in:
 - **Languages:** Python, JavaScript
 - **Frameworks:** React, Node.js
 - **Cloud:** Docker, Kubernetes
