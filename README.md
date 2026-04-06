@@ -14,11 +14,12 @@ I'm Musila Peter, a [role] with [X] years of experience in [industry]. I special
 
 ## 📌 Featured Projects
 
-### [Project Name](link)
-Brief description of your best project
+### ODPC-RAG ChatBot(link)
+An intelligent AI chatbot for the Office of the Data Protection Commissioner (ODPC) Kenya, powered by Retrieval-Augmented Generation (RAG). This system automatically crawls the official ODPC website, indexes content, and provides accurate, source-backed answers to queries about Kenyan data protection laws and regulations.
 
-### [Project Name](link)
-Brief description
+
+### Finder — Lost & Found Recovery Place(link)
+A polished MERN-style lost-and-found web application built with React, Vite, Tailwind CSS, Express, MongoDB, and Cloudinary. This project demonstrates a full-stack workflow, file upload handling, responsive UI, and modern frontend/back-end best practices.
 
 ## 📊 GitHub Stats
 
