@@ -16,7 +16,7 @@ I'm Musila Peter, a junior software engineer with 3 years of experience in progr
 ## 📌 Featured Projects
 
 ### [ODPC-RAG ChatBot](https://web.think.ke)
-An intelligent AI chatbot for the Office of the Data Protection Commissioner (ODPC) Kenya, powered by Retrieval-Augmented Generation (RAG). This system automatically crawls the official ODPC website, indexes content, and provides accurate, source-backed answers to queries about Kenyan data protection laws and regulations.
+An intelligent AI chatbot for the Office of the Data Protection Commissioner (ODPC) Kenya, powered by Retrieval-Augmented Generation (RAG). This system automatically crawls the official ODPC website, indexes content, and provides accurate, source-backed answers to queries about Kenyan data protection laws and regulations. Build together with Eric Mwangi https://github.com/Rickmwasofficial
 
 ### [Finder — Lost & Found Recovery Place](https://finder-2vxr.onrender.com/)
 A polished MERN-style lost-and-found web application built with React, Vite, Tailwind CSS, Express, MongoDB, and Cloudinary. This project demonstrates a full-stack workflow, file upload handling, responsive UI, and modern frontend/back-end best practices.
